@@ -1,0 +1,1 @@
+# covidnewz-tech
